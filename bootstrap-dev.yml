@@ -1,0 +1,2 @@
+config:
+   info: "bootstrap.yml 本地测试的 dev 从git获取的"
